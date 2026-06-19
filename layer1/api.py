@@ -54,7 +54,7 @@ async def lifespan(app: FastAPI):
 # ── FastAPI app ───────────────────────────────────────────────────────────────
 
 app = FastAPI(
-    title="Kenko — Layer 1: Sensory & Early Fusion",
+    title="Augur — Layer 1: Sensory & Early Fusion",
     description=(
         "Ingests user chat messages and self-report logs, "
         "produces a fused vector and preliminary risk score."

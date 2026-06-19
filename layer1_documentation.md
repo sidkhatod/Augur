@@ -5,7 +5,7 @@
 ## 1. Executive Summary (Project Manager Perspective)
 
 ### Goal & Scope
-The primary objective of **Layer 1 (Sensory & Early Fusion)** is to serve as the unified multimodal entry point for the Kenko mental health support ecosystem. It ingests unstructured text input (user chat messages) and structured self-report metrics (sleep hours, mood, social engagement, etc.) and fuses them into a single, high-dimensional representation.
+The primary objective of **Layer 1 (Sensory & Early Fusion)** is to serve as the unified multimodal entry point for the Augur mental health support ecosystem. It ingests unstructured text input (user chat messages) and structured self-report metrics (sleep hours, mood, social engagement, etc.) and fuses them into a single, high-dimensional representation.
 
 ### Achievements & Value Delivered
 *   **Dual-Path Modality Processing:** Replaces simple text analysis with a system that contextualizes conversations using recent behavioral logs.

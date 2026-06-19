@@ -58,7 +58,7 @@ TEST_CASES = [
 
 def run_test_pipeline():
     print("=" * 70)
-    print(" Kenko Layer 1: Integration & End-to-End Test Pipeline ".center(70, "="))
+    print(" Augur Layer 1: Integration & End-to-End Test Pipeline ".center(70, "="))
     print("=" * 70)
 
     # 1. Health check
