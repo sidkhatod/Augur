@@ -1,0 +1,23 @@
+# ── Layer 1: Sensory & Early Fusion ──────────────────────────────────────────
+# Pin minor versions, allow patch updates (~=)
+
+# API
+fastapi~=0.136.3
+uvicorn~=0.48.0
+
+# Data validation
+pydantic~=2.13.4
+
+# Deep learning — FT-Transformer + GatedFusion (tabular encoder & fusion layer)
+torch~=2.6.0
+numpy~=2.4.6
+
+# Text embeddings — Phase 1 (swap for google-cloud-aiplatform in Phase 2 / Cloud Run)
+google-genai~=2.6.0
+
+# Environment config
+python-dotenv~=1.2.2
+
+# ── Dev / test (exclude in production builds) ─────────────────────────────────
+pytest~=9.0.3
+pytest-asyncio~=1.4.0
